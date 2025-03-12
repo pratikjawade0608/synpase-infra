@@ -65,3 +65,4 @@ stages:
       StageName: ${{variables.StageName_Prod}}
       EnvironmentName: ${{variables.EnvironmentName_Prod}}
       PoolImage: $(PoolImage)
+      
